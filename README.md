@@ -1,0 +1,1 @@
+# libgdx-ij-plugin
